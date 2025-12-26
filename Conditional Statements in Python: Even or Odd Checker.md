@@ -23,3 +23,4 @@ else:
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/ee925c11-4cdf-4e1b-949b-c69e5cfe0e97" />
 
 ## Result
+This program efficiently distinguishes even and odd numbers using a simple conditional check and prints the correct label accordingly.
