@@ -31,3 +31,4 @@ print("d is:",d)
 <img width="1499" height="988" alt="image" src="https://github.com/user-attachments/assets/6e357850-9c1a-40ab-8576-e001e6ec0e17" />
 
 ## Result
+The program successfully evaluates boolean and arithmetic expressions involving True and False and displays the correct results.
